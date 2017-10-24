@@ -5,7 +5,7 @@
  */
 package Tree;
 
-
+///DETJR
 public class Tree234 {
 
     private Node root = new Node();	// make root node
@@ -51,6 +51,8 @@ public class Tree234 {
         focus.insertItem(tempItem);
 
     }    // end insert
+    
+    ///DETJR
 
     private void split(Node thisNode) { // split the node
 
@@ -145,4 +147,4 @@ public class Tree234 {
     }         // end recDisplayTree()
 
 }               // end class Tree234
-
+///DETJR
